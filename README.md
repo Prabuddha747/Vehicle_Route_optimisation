@@ -6,11 +6,11 @@ MARKING THE POINTS TO VISIT
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/c395ba10-6846-4338-8176-16e1082a7d92">
 
 
-MAPPING THE WHOLE REGION ,COUNTING POINT FOR OPTIMUM PARTH
+MAPPING THE WHOLE REGION ,COUNTING POINT FOR OPTIMUM PATH
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/bd53cd17-1b58-4b83-8c21-126f311d4abd">
 
 
 
 
-FINALLY MARKER MOVING TO EACH MARKED POINY
+FINALLY MARKER MOVING TO EACH MARKED POINT
 <img width="796" alt="image" src="https://github.com/user-attachments/assets/25bedee0-a2a5-4bf8-b33c-feea946a7849">
