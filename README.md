@@ -1,2 +1,3 @@
 # Vehicle_Route_optimisation
 This project explores the application of evolutionary algorithms, inspired by natural processes, to solve the Vehicle Routing Problem. VRP is a critical optimization challenge in logistics and transportation, aiming to minimize the total distance or cost of vehicle routes while serving all customers. By leveraging evolutionary algorithms, which mimic biological evolution, we can potentially find efficient and cost-effective solutions to this complex problem. The goal is to develop a Python-based implementation that can be used to address VRP instances in various real-world scenarios.
+<img width="796" alt="image" src="https://github.com/user-attachments/assets/25bedee0-a2a5-4bf8-b33c-feea946a7849">
